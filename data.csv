@@ -1,0 +1,18 @@
+[
+  {
+   "name":"naveen",
+    "city":"Banglore"  
+  },
+
+{
+  "name":"naveen",
+    "city":"Banglore",
+"designation":"SDET"
+ },
+
+{
+  "name":"naveen",
+    "city":"Banglore",
+"language":["JAVA,JavaScript"]
+ }
+]
